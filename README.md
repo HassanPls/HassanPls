@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi! My name is Pedro, but u can call me Hassan.
+<div align="center">
+  <a href="https://github.com/HassanPls">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanPls&show_icons=true&theme=transparent&title_color=8070ff&text_color=ffffff&icon_color=a99fff&bg_color=000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **HassanPls/HassanPls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
