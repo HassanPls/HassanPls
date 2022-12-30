@@ -4,7 +4,7 @@
 
 - 🍒 I’m working in blender
 - 🍊 I’m learning C#
-- 🍉 How to reach me: " Hassan 🍞#2891 "
+- 🍉 How to reach me: plmvfilho@gmail.com
 - 🍎 Pronouns: he/him
 
 ---
