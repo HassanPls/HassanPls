@@ -1,8 +1,8 @@
-# 🧾**Hi! My name is Pedro, but u can call me Hassan**🧾
+# 🧾**Hi! My name is Pedro.**🧾
 
 ## 📌Im a brazilian programmer and modeler📌
 
-- 🍒 I’m working in blender
+- 🍒 I’m working with blender
 - 🍊 I’m learning C#
 - 🍉 How to reach me: plmvfilho@gmail.com
 - 🍎 Pronouns: he/him
