@@ -2,7 +2,7 @@
 
 ## 📌Im a brazilian programmer and modeler📌
 
-- 🍒 I’m working in blender
+- 🍒 I’m working with blender
 - 🍊 I’m learning C#
 - 🍉 How to reach me: plmvfilho@gmail.com
 - 🍎 Pronouns: he/him
@@ -13,6 +13,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HassanPls&column=4&row=1&theme=algolia)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanPls&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## ⏳**Additionals**⏳
