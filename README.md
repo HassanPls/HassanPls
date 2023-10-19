@@ -1,25 +1,81 @@
-# 🧾Hi! My name is Pedro.🧾
+<style>
+    h1, h2 {
+        color: #ae00ff;
+    }
+    
+    body {
+        text-align: center;
+    }
 
-## 📌Im a brazilian programmer and modeler📌
+    td {
+        background: #ffffff;
+    }
 
-- 🍒 I’m working with blender
-- 🍊 I’m learning C#
-- 🍉 How to reach me: plmvfilho@gmail.com
-- 🍎 Pronouns: he/him
+    th {
+        background-color: #ae00ff;
+    }
 
----
+    div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+</style>
 
-## 🏆**Achievements**🏆
+<h1>Hi! My name is Pedro</h1>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HassanPls&column=4&row=1&theme=algolia)
+<h2>Im a brazilian programmer and modeler</h2>
+
+<p>
+    I’m working with <b>blender</b> <br>
+    I’m learning <b>Java</b> <br>
+    How to reach me: <b>plmvfilho@gmail.com</b> <br>
+    Pronouns: <b>he/him</b> <br>
+</p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanPls&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
----
+<h2>Informations</h2>
 
-## ⏳**Additionals**⏳
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanPls&show_icons=true&theme=midnight-purple&card_width=500px&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-| Resources | Social Networks |
-| :---:        | :---: |
-| ![link](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![link](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|[![link](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Hassan_pls) [![link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCA-lKzMkAvGGHxlAvMZZifQ) [![link](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Hassan_no) [![link](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hassan_pls/)|
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanPls&theme=midnight-purple&layout=compact&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Additionals</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Languages</th>
+            <th>Resources</th>
+            <th>Social Networks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./src/java.png" height="40px">
+                <img src="./src/html-5.png" height="40px">
+                <img src="./src/css-3.png" height="40px">
+                <img src="./src/js.png" height="40px">
+                <img src="./src/csharp.png" height="40px">
+            </td>
+            <td>
+                <img src="./src/vscode.png" height="40px">
+                <img src="./src/Blender.png" height="40px">
+            </td>
+            <td>
+                <a href="https://twitter.com/Hassan_pls">
+                    <img src="./src/twitter.png" height="40px">
+                </a>
+                <a href="https://www.instagram.com/hassan_pls/">
+                    <img src="./src/instagram.png" height="40px">
+                </a>
+                <a href="https://www.youtube.com/channel/UCA-lKzMkAvGGHxlAvMZZifQ">
+                    <img src="./src/youtube.png" height="40px">
+                </a>
+                <a href="https://www.tiktok.com/@hassan_pls">
+                    <img src="./src/tiktok.png" height="40px">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
