@@ -1,36 +1,12 @@
-<style>
-    h1, h2 {
-        color: #ae00ff;
-    }
-    
-    body {
-        text-align: center;
-    }
-
-    td {
-        background: #ffffff;
-    }
-
-    th {
-        background-color: #ae00ff;
-    }
-
-    div {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-</style>
-
 <h1>Hi! My name is Pedro</h1>
 
 <h2>Im a brazilian programmer and modeler</h2>
 
 <p>
-    I’m working with <b>blender</b> <br>
-    I’m learning <b>Java</b> <br>
-    How to reach me: <b>plmvfilho@gmail.com</b> <br>
-    Pronouns: <b>he/him</b> <br>
+- I’m working with <b>blender</b> <br>
+- I’m learning <b>Java</b> <br>
+- How to reach me: <b>plmvfilho@gmail.com</b> <br>
+- Pronouns: <b>he/him</b> <br>
 </p>
 
 
