@@ -4,7 +4,7 @@
 
 <p>
 - I’m working with <b>blender</b> <br>
-- I’m learning <b>Java</b> <br>
+- I’m learning <b>JavaScript</b> <br>
 - How to reach me: <b>plmvfilho@gmail.com</b> <br>
 - Pronouns: <b>he/him</b> <br>
 </p>
