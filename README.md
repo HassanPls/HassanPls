@@ -55,4 +55,5 @@
         </tr>
     </tbody>
 </table>
-![Snake animation](https://github.com/HassanPls/HassanPls/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/HassanPls/HassanPls/blob/output/github-contribution-grid-snake.svg)
